@@ -1,2 +1,2 @@
-# Design-Patterns-On-Swift
-Design Patterns On Swift
+# Design-Patterns-In-Swift
+Design Patterns In Swift
