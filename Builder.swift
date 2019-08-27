@@ -97,3 +97,5 @@ func main(){
     print(person.gender)
     
 }
+
+main()
