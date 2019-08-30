@@ -101,6 +101,8 @@ func main(){
     tom.movementType = swim
     tom.move()
     
+        /*you can expand this example further by adding a movementType2 in the person class so the person can either swim or walk*/
+    
 }
 
 main()
